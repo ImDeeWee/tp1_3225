@@ -1,1 +1,3 @@
-# tp1_3225
+- L'énoncé du travail se retrouve dans le fichier "Projet1_IFT3225_E24.pdf".
+- Le code ainsi que les photos nécessaires pour le fonctionnement de la page web se retrouvent dans le répertoire "tp1".
+- Pour utiliser la chaine d'ARN, veuillez rentrer les lettres en majuscule et sans espaces.
